@@ -68,10 +68,3 @@
 </p>
 
 ---
-
-### 🚀 Fun Projects:
-- 🔗 Add a small list of your best projects with emojis, names, and links.
-  - 📱 **[Awesome Flutter App](https://github.com/rafaymushtaq05/awesome-flutter-app)**: A Flutter app with great features!
-  - 🌐 **[Portfolio Website](https://rafaymushtaq.web.app/)**: My personal portfolio showcasing my work.
-
-
