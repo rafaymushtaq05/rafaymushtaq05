@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rafay Mushtaq</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated Banner" width="20%" />
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Rafay Mushtaq
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaymushtaq05&label=Profile%20views&color=0e75b6&style=flat" alt="rafaymushtaq05" />
+  <img src="https://komarev.com/ghpvc/?username=rafaymushtaq05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -47,11 +54,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaymushtaq05&show_icons=true&locale=en&theme=radical" alt="rafaymushtaq05 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaymushtaq05&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaymushtaq05&theme=radical" alt="rafaymushtaq05 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaymushtaq05&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -66,5 +73,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
